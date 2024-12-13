@@ -26,7 +26,8 @@ R Markdown is used to build an Excel file that is used as the basis for the NSC 
 ## The Files
 Sample_Excel_1 is an image inserted in the instructions.</br>
 NSC Grads Only File is the R Markdown file.</br>
-
+NSC-Grads-Only-File.html is a sample document created by the R Markdown.</br>
+I didn't include a sample Grads File in the repository, but one is created for you locally when you use this process.</br>
 
 ## What You Will Have To Do (knowledge that you need to bring to the party)
 At minimum, you will need to do the following to make these files work for you.
